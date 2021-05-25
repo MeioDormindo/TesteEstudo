@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\bin\Debug\netcoreapp2.1\AccountHeranca.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\bin\Debug\netcoreapp2.1\AccountHeranca.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\bin\Debug\netcoreapp2.1\AccountHeranca.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\bin\Debug\netcoreapp2.1\AccountHeranca.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\bin\Debug\netcoreapp2.1\AccountHeranca.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\obj\Debug\netcoreapp2.1\AccountHeranca.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\obj\Debug\netcoreapp2.1\AccountHeranca.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\obj\Debug\netcoreapp2.1\AccountHeranca.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\obj\Debug\netcoreapp2.1\AccountHeranca.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\obj\Debug\netcoreapp2.1\AccountHeranca.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\AccountHeranca\obj\Debug\netcoreapp2.1\AccountHeranca.pdb

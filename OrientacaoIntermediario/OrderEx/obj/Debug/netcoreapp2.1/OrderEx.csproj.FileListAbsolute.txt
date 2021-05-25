@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\obj\Debug\netcoreapp2.1\OrderEx.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\obj\Debug\netcoreapp2.1\OrderEx.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\obj\Debug\netcoreapp2.1\OrderEx.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\obj\Debug\netcoreapp2.1\OrderEx.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\bin\Debug\netcoreapp2.1\OrderEx.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\bin\Debug\netcoreapp2.1\OrderEx.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\bin\Debug\netcoreapp2.1\OrderEx.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\bin\Debug\netcoreapp2.1\OrderEx.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\bin\Debug\netcoreapp2.1\OrderEx.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\obj\Debug\netcoreapp2.1\OrderEx.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\OrderEx\obj\Debug\netcoreapp2.1\OrderEx.pdb

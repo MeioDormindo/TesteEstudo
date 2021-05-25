@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db_sistemavenda" Class="sistemaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-4H70OMV\METAPOSTO;Initial Catalog=db_sistemavenda;User ID=sa" SettingsObjectName="Sistema.DAL.Properties.Settings" SettingsPropertyName="db_sistemavendaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_categoria" Member="Categorias">
+    <Type Name="Categorias">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="descricao" Member="Descricao" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Categoria_Produto" Member="Produtos" Storage="_tb_produtos" ThisKey="id" OtherKey="IdCategoria" Type="Produtos" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_produto" Member="Produtos">
+    <Type Name="Produtos">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="desc_produto" Member="Descricao" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="valor" Member="Valor" Type="System.Decimal" DbType="Decimal(25,2)" CanBeNull="true" />
+      <Column Name="id_categoria" Member="IdCategoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Produto_ItensVenda" Member="ItensVendas" ThisKey="id" OtherKey="id_produto" Type="ItensVendas" />
+      <Association Name="Categoria_Produto" Member="Categorias" Storage="_Categoria" ThisKey="IdCategoria" OtherKey="id" Type="Categorias" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_itens_venda" Member="ItensVendas">
+    <Type Name="ItensVendas">
+      <Column Name="quantidade" Member="Quantidade" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_produto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="id_venda" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="valor" Member="Valor" Type="System.Decimal" DbType="Decimal(15,2) NOT NULL" CanBeNull="false" />
+      <Column Name="id_item" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Association Name="Produto_ItensVenda" Member="Produtos" Storage="_Produto" ThisKey="id_produto" OtherKey="id" Type="Produtos" IsForeignKey="true" />
+      <Association Name="Venda_ItensVenda" Member="Vendas" Storage="_Venda" ThisKey="id_venda" OtherKey="id_venda" Type="Vendas" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_pessoa" Member="Pessoas">
+    <Type Name="Pessoas">
+      <Column Name="id_pessoa" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Member="Nome" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="telefone" Member="Telefone" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="email" Member="Email" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Pessoa_Venda" Member="Vendas" ThisKey="id_pessoa" OtherKey="id_pessoa" Type="Vendas" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_venda" Member="Vendas">
+    <Type Name="Vendas">
+      <Column Name="id_venda" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="valor" Member="Valor" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="desconto" Member="Desconto" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="valor_pago" Type="System.Decimal" DbType="Decimal(15,2)" CanBeNull="true" />
+      <Column Name="id_pessoa" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Venda_ItensVenda" Member="ItensVendas" ThisKey="id_venda" OtherKey="id_venda" Type="ItensVendas" />
+      <Association Name="Pessoa_Venda" Member="Pessoas" Storage="_Pessoa" ThisKey="id_pessoa" OtherKey="id_pessoa" Type="Pessoas" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_usuario" Member="Usuarios">
+    <Type Name="Usuarios">
+      <Column Name="usuario" Member="Usuario" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="senha" Member="Senha" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="id_pessoa" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

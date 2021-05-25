@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvaMeta", "ProvaMeta\ProvaMeta.csproj", "{9F7F4CA2-BE20-4BDA-91C4-A763BF41358B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sistema.DAL", "Sistema.DAL\sistema.DAL.csproj", "{77FD9883-65F2-4110-9545-368642829A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7F4CA2-BE20-4BDA-91C4-A763BF41358B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7F4CA2-BE20-4BDA-91C4-A763BF41358B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7F4CA2-BE20-4BDA-91C4-A763BF41358B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7F4CA2-BE20-4BDA-91C4-A763BF41358B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FD9883-65F2-4110-9545-368642829A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FD9883-65F2-4110-9545-368642829A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FD9883-65F2-4110-9545-368642829A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FD9883-65F2-4110-9545-368642829A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DED33F-7C76-4560-B111-AACDE0E0CA54}
+	EndGlobalSection
+EndGlobal

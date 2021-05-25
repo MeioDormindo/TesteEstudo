@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\bin\Debug\netcoreapp2.1\ExProduct.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\bin\Debug\netcoreapp2.1\ExProduct.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\bin\Debug\netcoreapp2.1\ExProduct.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\bin\Debug\netcoreapp2.1\ExProduct.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\bin\Debug\netcoreapp2.1\ExProduct.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\obj\Debug\netcoreapp2.1\ExProduct.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\obj\Debug\netcoreapp2.1\ExProduct.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\obj\Debug\netcoreapp2.1\ExProduct.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\obj\Debug\netcoreapp2.1\ExProduct.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\obj\Debug\netcoreapp2.1\ExProduct.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExProduct\obj\Debug\netcoreapp2.1\ExProduct.pdb

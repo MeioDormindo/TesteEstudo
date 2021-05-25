@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="metaBanco">
+  <DataContextMoniker Name="/metaBancoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="751225e4-0281-4079-9170-3ce830c12a86" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/metaBancoDataContext/Natureza" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d24b3518-c2dd-43fc-b4d4-3486d13c04b6" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f61d96cd-198b-45f1-9f5a-e3446304348b" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/metaBancoDataContext/Conta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="792d108b-105c-4ea5-9155-759e5dbb4b16" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a216d87d-57af-4044-a4c6-0126870796e0" absoluteBounds="0.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/metaBancoDataContext/TipoConta" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bf5584c1-c616-4cee-b111-450d1e99dafa" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.75 : 3.75); (1.75 : 2.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/metaBancoDataContext/TipoConta/TipoConta_Natureza" />
+      <nodes>
+        <classShapeMoniker Id="a216d87d-57af-4044-a4c6-0126870796e0" />
+        <classShapeMoniker Id="751225e4-0281-4079-9170-3ce830c12a86" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.44314697265625); (3.75 : 1.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/metaBancoDataContext/Natureza/Natureza_Conta" />
+      <nodes>
+        <classShapeMoniker Id="751225e4-0281-4079-9170-3ce830c12a86" />
+        <classShapeMoniker Id="f61d96cd-198b-45f1-9f5a-e3446304348b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

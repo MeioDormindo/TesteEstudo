@@ -1,0 +1,17 @@
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\bin\Debug\ProvaMeta.exe.config
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\bin\Debug\ProvaMeta.exe
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\bin\Debug\ProvaMeta.pdb
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.Properties.Resources.resources
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.csproj.GenerateResource.cache
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.exe
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.pdb
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.frm_menu.resources
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.frm_conta.resources
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.frm_elenco.resources
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.frm_natureza.resources
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\bin\Debug\Sistema.DAL.dll
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\bin\Debug\Sistema.DAL.pdb
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\bin\Debug\Sistema.DAL.dll.config
+C:\Users\meta\source\repos\ProvaMeta\ProvaMeta\obj\Debug\ProvaMeta.csproj.CopyComplete

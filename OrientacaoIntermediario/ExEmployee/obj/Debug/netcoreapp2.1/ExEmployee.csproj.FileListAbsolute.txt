@@ -1,0 +1,10 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\bin\Debug\netcoreapp2.1\ExEmployee.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\bin\Debug\netcoreapp2.1\ExEmployee.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\bin\Debug\netcoreapp2.1\ExEmployee.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\bin\Debug\netcoreapp2.1\ExEmployee.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\bin\Debug\netcoreapp2.1\ExEmployee.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\obj\Debug\netcoreapp2.1\ExEmployee.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\obj\Debug\netcoreapp2.1\ExEmployee.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\obj\Debug\netcoreapp2.1\ExEmployee.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\obj\Debug\netcoreapp2.1\ExEmployee.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\ExEmployee\obj\Debug\netcoreapp2.1\ExEmployee.pdb

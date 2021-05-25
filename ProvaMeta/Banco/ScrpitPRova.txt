@@ -1,0 +1,8 @@
+CREATE TABLE tb_conta ( id int IDENTITY(1,1) NOT NULL, PRIMARY KEY (id),nome varchar(50) UNIQUE, id_natureza int NOT NULL);
+CREATE TABLE tb_elenco (id int IDENTITY(1,1) NOT NULL ,PRIMARY KEY (id),nome varchar(50) UNIQUE,);  
+CREATE TABLE tb_natureza (id int IDENTITY(1,1) NOT NULL, PRIMARY KEY (id),nome varchar(50) NOT NULL, id_elenco int not null);
+
+
+insert into tb_elenco (nome)  values ('Patrimonial', 'Resultado');
+
+insert into tb_natureza (nome,id_elenco)  values ('Devedora', 1),('Credora',1),('Devedora',2),('Credora',2);

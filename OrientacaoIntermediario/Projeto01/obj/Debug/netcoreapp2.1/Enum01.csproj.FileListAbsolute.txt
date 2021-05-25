@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\obj\Debug\netcoreapp2.1\Enum01.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\obj\Debug\netcoreapp2.1\Enum01.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\obj\Debug\netcoreapp2.1\Enum01.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\obj\Debug\netcoreapp2.1\Enum01.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\bin\Debug\netcoreapp2.1\Enum01.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\bin\Debug\netcoreapp2.1\Enum01.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\bin\Debug\netcoreapp2.1\Enum01.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\bin\Debug\netcoreapp2.1\Enum01.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\bin\Debug\netcoreapp2.1\Enum01.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\obj\Debug\netcoreapp2.1\Enum01.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\Projeto01\obj\Debug\netcoreapp2.1\Enum01.pdb

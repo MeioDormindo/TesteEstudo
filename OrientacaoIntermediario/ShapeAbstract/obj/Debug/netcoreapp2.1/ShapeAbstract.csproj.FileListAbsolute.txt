@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\bin\Debug\netcoreapp2.1\ShapeAbstract.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\bin\Debug\netcoreapp2.1\ShapeAbstract.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\bin\Debug\netcoreapp2.1\ShapeAbstract.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\bin\Debug\netcoreapp2.1\ShapeAbstract.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\bin\Debug\netcoreapp2.1\ShapeAbstract.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\obj\Debug\netcoreapp2.1\ShapeAbstract.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\obj\Debug\netcoreapp2.1\ShapeAbstract.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\obj\Debug\netcoreapp2.1\ShapeAbstract.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\obj\Debug\netcoreapp2.1\ShapeAbstract.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\obj\Debug\netcoreapp2.1\ShapeAbstract.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\ShapeAbstract\obj\Debug\netcoreapp2.1\ShapeAbstract.pdb

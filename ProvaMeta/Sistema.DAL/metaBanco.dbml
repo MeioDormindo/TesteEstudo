@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ProvaMeta" Class="metaBancoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-4H70OMV\METAPOSTO;Initial Catalog=ProvaMeta;Persist Security Info=True;User ID=sa" SettingsObjectName="Sistema.DAL.Properties.Settings" SettingsPropertyName="ProvaMetaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tb_natureza" Member="Naturezas">
+    <Type Name="Natureza">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Member="Nome" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="id_elenco" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Natureza_Conta" Member="Contas" ThisKey="id" OtherKey="id_natureza" Type="Conta" />
+      <Association Name="TipoConta_Natureza" Member="TipoConta" ThisKey="id_elenco" OtherKey="id" Type="TipoConta" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_conta" Member="Contas">
+    <Type Name="Conta">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Member="Nome" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="id_natureza" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Natureza_Conta" Member="Natureza" ThisKey="id_natureza" OtherKey="id" Type="Natureza" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tb_elenco" Member="TipoContas">
+    <Type Name="TipoConta">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nome" Member="Nome" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="TipoConta_Natureza" Member="Naturezas" ThisKey="id" OtherKey="id_elenco" Type="Natureza" />
+    </Type>
+  </Table>
+</Database>

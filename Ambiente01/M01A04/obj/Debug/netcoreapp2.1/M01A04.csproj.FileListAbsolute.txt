@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\Ambiente01\M01A04\obj\Debug\netcoreapp2.1\M01A04.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\Ambiente01\M01A04\obj\Debug\netcoreapp2.1\M01A04.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\Ambiente01\M01A04\obj\Debug\netcoreapp2.1\M01A04.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\Ambiente01\M01A04\obj\Debug\netcoreapp2.1\M01A04.AssemblyInfo.cs
+C:\Users\meta\source\repos\Ambiente01\M01A04\bin\Debug\netcoreapp2.1\M01A04.deps.json
+C:\Users\meta\source\repos\Ambiente01\M01A04\bin\Debug\netcoreapp2.1\M01A04.runtimeconfig.json
+C:\Users\meta\source\repos\Ambiente01\M01A04\bin\Debug\netcoreapp2.1\M01A04.runtimeconfig.dev.json
+C:\Users\meta\source\repos\Ambiente01\M01A04\bin\Debug\netcoreapp2.1\M01A04.dll
+C:\Users\meta\source\repos\Ambiente01\M01A04\bin\Debug\netcoreapp2.1\M01A04.pdb
+C:\Users\meta\source\repos\Ambiente01\M01A04\obj\Debug\netcoreapp2.1\M01A04.dll
+C:\Users\meta\source\repos\Ambiente01\M01A04\obj\Debug\netcoreapp2.1\M01A04.pdb

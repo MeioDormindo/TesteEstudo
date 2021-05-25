@@ -1,0 +1,10 @@
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\bin\Debug\M01A09Forms.exe.config
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\bin\Debug\M01A09Forms.exe
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\bin\Debug\M01A09Forms.pdb
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.Form1.resources
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.Properties.Resources.resources
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.csproj.GenerateResource.cache
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.exe
+C:\Users\meta\source\repos\Ambiente01\M01A09Forms\obj\Debug\M01A09Forms.pdb

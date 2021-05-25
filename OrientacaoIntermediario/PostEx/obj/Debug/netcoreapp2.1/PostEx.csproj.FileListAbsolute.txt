@@ -1,0 +1,11 @@
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\bin\Debug\netcoreapp2.1\PostEx.deps.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\bin\Debug\netcoreapp2.1\PostEx.runtimeconfig.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\bin\Debug\netcoreapp2.1\PostEx.runtimeconfig.dev.json
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\bin\Debug\netcoreapp2.1\PostEx.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\bin\Debug\netcoreapp2.1\PostEx.pdb
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\obj\Debug\netcoreapp2.1\PostEx.csprojAssemblyReference.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\obj\Debug\netcoreapp2.1\PostEx.csproj.CoreCompileInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\obj\Debug\netcoreapp2.1\PostEx.AssemblyInfoInputs.cache
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\obj\Debug\netcoreapp2.1\PostEx.AssemblyInfo.cs
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\obj\Debug\netcoreapp2.1\PostEx.dll
+C:\Users\meta\source\repos\OrientacaoIntermediario\PostEx\obj\Debug\netcoreapp2.1\PostEx.pdb
